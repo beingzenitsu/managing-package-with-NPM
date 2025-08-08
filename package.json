@@ -4,6 +4,7 @@
 	"description": "First backend project",
 	"keywords": [ "First one", "freecodecamp", "Stuck" ],
 	"license": "OJT",
+	"version": "1.20.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
